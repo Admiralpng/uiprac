@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Dirty Stains;
+}
+
+.App {
+  background-image: url("../../assets/grain.jpg");
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  background-repeat: repeat-y;
+}
